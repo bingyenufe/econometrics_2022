@@ -7,7 +7,7 @@ output:
     toc_collapsed: true
 ---
 
-## 课程说明
+### 课程说明
 
 **老师**：叶兵（Email：121657961@163.com）<br>
 **助教**：王慧（Email：1585537815@qq.com）<br>
@@ -35,20 +35,21 @@ output:
 - 表中所列各项相加为44分，4分作为bonus。个人总分超过40的，按40计。
 - 严禁课上准备税务师考试。一经发现，在之后一段时间内将以100%的概率被抽问，且列入期末课程论文评分的重点关注对象。
 
-## 配套讲义
+### 配套讲义
 
 随课程更新，见：[链接](https://bingyenufe.github.io/CSJLYY/)
 
-## 课程资料
+### 课程资料
 
 以下凡需提取码，均是1234。 
 
 第1章：导论 [资料](https://pan.baidu.com/s/11CQtdWpNg0Q5yF7W8utxrg)<br>
+第2章：二元线性回归 [资料](https://pan.baidu.com/s/1TMPDRCnXdXTwieor_lkypQ)<br> 
 
-## 作业
+### 作业
 
-**作业1**：[链接](https://pan.baidu.com/s/1s_Z_t1pTYfbdxnBt6aHRhg)<br>
+作业1：[链接](https://pan.baidu.com/s/1s_Z_t1pTYfbdxnBt6aHRhg)<br>
 
-## Stata操作演示视频
+### Stata操作演示视频
 
-**Stata基本操作及作业指导**：[链接](https://pan.baidu.com/s/1DXzkxDQvYtccY7dbmhtppA)
+Stata基本操作及作业指导：[链接](https://pan.baidu.com/s/1DXzkxDQvYtccY7dbmhtppA)
