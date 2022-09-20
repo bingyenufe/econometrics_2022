@@ -45,6 +45,10 @@ output:
 
 第1章：导论 [资料](https://pan.baidu.com/s/11CQtdWpNg0Q5yF7W8utxrg)<br>
 
+## 作业
+
+**作业1**：[链接](https://pan.baidu.com/s/1s_Z_t1pTYfbdxnBt6aHRhg)<br>
+
 ## Stata操作演示视频
 
 **Stata基本操作及作业指导**：[链接](https://pan.baidu.com/s/1DXzkxDQvYtccY7dbmhtppA)
