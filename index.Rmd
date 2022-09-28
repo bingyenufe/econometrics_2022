@@ -45,8 +45,11 @@ output:
 
 第1章：导论 [资料](https://pan.baidu.com/s/11CQtdWpNg0Q5yF7W8utxrg)<br>
 第2章：二元线性回归 [资料](https://pan.baidu.com/s/1TMPDRCnXdXTwieor_lkypQ)<br> 
+第3、4章：多元线性回归 [资料](链接：https://pan.baidu.com/s/1ueqRaBZ7iuQvHFTCeHN9MA)
 
 ### 作业
+
+5次作业，任选4次完成。
 
 作业1：[链接](https://pan.baidu.com/s/1s_Z_t1pTYfbdxnBt6aHRhg)<br>
 
