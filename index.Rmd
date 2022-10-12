@@ -45,7 +45,7 @@ output:
 
 第1章：导论 [资料](https://pan.baidu.com/s/11CQtdWpNg0Q5yF7W8utxrg)<br>
 第2章：二元线性回归 [资料](https://pan.baidu.com/s/1TMPDRCnXdXTwieor_lkypQ)<br> 
-第3、4章：多元线性回归 [资料](https://pan.baidu.com/s/1ueqRaBZ7iuQvHFTCeHN9MA)
+第3、4章：多元线性回归 [资料](https://pan.baidu.com/s/1ueqRaBZ7iuQvHFTCeHN9MA)<br>
 第5-7章：定性信息、清晰断点回归、机制和异质性分析 [资料](https://pan.baidu.com/s/1oxQc6N7cum-wMaOimRtOmA)
 
 ### 作业
