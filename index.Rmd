@@ -48,7 +48,9 @@ output:
 第3和4章：多元线性回归 [资料](https://pan.baidu.com/s/1ueqRaBZ7iuQvHFTCeHN9MA)<br>
 第5-7章：定性信息、清晰断点回归、机制和异质性分析 [资料](https://pan.baidu.com/s/1oxQc6N7cum-wMaOimRtOmA)<br>
 第8和9章：一致性和模型误设 [资料](https://pan.baidu.com/s/1x0AewDRds3vaWs9kxNqbRA)<br>
-第10章：面板数据模型：计量方法及应用 [资料](https://pan.baidu.com/s/1jny6hd3p46_3KivoSPSt3Q)
+第10章：面板数据模型：计量方法及应用 [资料](https://pan.baidu.com/s/1jny6hd3p46_3KivoSPSt3Q)<br>
+
+**文献** [链接](https://pan.baidu.com/s/1gGphaOeNgLYEMbA-PPrxMA)
 
 ### 作业
 
