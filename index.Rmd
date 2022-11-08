@@ -49,6 +49,7 @@ output:
 第5-7章：定性信息、清晰断点回归、机制和异质性分析 [资料](https://pan.baidu.com/s/1oxQc6N7cum-wMaOimRtOmA)<br>
 第8和9章：一致性和模型误设 [资料](https://pan.baidu.com/s/1x0AewDRds3vaWs9kxNqbRA)<br>
 第10章：面板数据模型：计量方法及应用 [资料](https://pan.baidu.com/s/1jny6hd3p46_3KivoSPSt3Q)<br>
+第11章：基于面板数据的双重差分法：计量方法及应用 [资料](https://pan.baidu.com/s/1YAUGXPQzN2yrN5GetmghRg)
 
 **文献** [链接](https://pan.baidu.com/s/1gGphaOeNgLYEMbA-PPrxMA)
 
@@ -57,8 +58,14 @@ output:
 5次作业，任选4次完成。
 
 作业1：[链接](https://pan.baidu.com/s/1s_Z_t1pTYfbdxnBt6aHRhg)<br>
-作业2：[链接](https://pan.baidu.com/s/16iWkHjciE21_SD4HTO_93w)
+作业2：[链接](https://pan.baidu.com/s/16iWkHjciE21_SD4HTO_93w)<br>
+作业3：[链接](https://pan.baidu.com/s/1B5d6M1r8nuhQFspEjclj6Q)
 
 ### Stata操作演示视频
 
 Stata基本操作及作业指导：[链接](https://pan.baidu.com/s/1DXzkxDQvYtccY7dbmhtppA)
+
+### 上课录屏
+
+[第10周](https://meeting.tencent.com/v2/cloud-record/share?id=c96563de-e1a2-4c6a-965a-148d1659fc3c&from=3)<br>
+[第11周](https://meeting.tencent.com/v2/cloud-record/share?id=de6e674d-2a36-4599-bf30-68bd680e5141&from=3)
